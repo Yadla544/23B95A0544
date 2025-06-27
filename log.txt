@@ -1,0 +1,5 @@
+[2025-06-27T06:21:59.485Z] POST /shorturls
+[2025-06-27T06:22:44.485Z] GET /shorturls/custom01%0A
+[2025-06-27T06:27:33.037Z] GET /custom01
+[2025-06-27T06:28:02.709Z] GET /custom01
+[2025-06-27T06:35:21.869Z] GET /shorturls/custom01
